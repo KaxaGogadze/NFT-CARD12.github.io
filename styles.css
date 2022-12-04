@@ -1,0 +1,110 @@
+body{
+  background: #0d192c;
+  font-family: "Outfit", sans-serif;
+}
+.cont{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 13vw;
+  background-color: #15263F;
+  width: 330px;
+  height: 580px;
+  border-radius: 15px;
+
+}
+h1{
+  margin-left: 15px;
+  color: #ffffff;
+  font-style: normal;
+  font-size: 22px;
+}
+p{
+  margin-left: 15px;
+  font-style: normal;
+  font-size: 18px;
+  color: #8BACD9;
+}
+/* NFT */
+.NFT img{
+  margin-top: 5px;
+  padding: 15px;
+  width:300px;
+  height:300px;
+}
+.NFT img:hover{
+  mix-blend-mode: normal;
+  opacity: 0.3;
+}
+.NFT a{
+  color: #00FFF8;
+  text-decoration: none;
+}
+.NFT a:hover{
+  color: #FFFFFF;
+}
+/* class link */
+.link img{
+  margin-top:5px;
+  margin-left: 15px;
+  width:10px;
+  height:20px;
+}
+.link p{
+  margin-top:-21px;
+  margin-left: 29px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #00FFF8;
+
+}
+.link a{
+  color: #00FFF8;
+  text-decoration: none;
+}
+/* class time */
+.time img{
+  position: absolute;
+  margin-top:-36px;
+  margin-left: 212px;
+  width: 15px;
+  height: 15px;
+}
+.time p{
+  position: absolute;
+  margin-top:-37px;
+  margin-left: 234px;
+  font-style: normal;
+  font-size: 16px;
+  color: #8BACD9;
+
+}
+/* string */
+.string{
+  position: absolute;
+  margin-left: 15px;
+  margin-top: 10px;
+  width: 288px;
+  height: 2px;
+  background: #2E405A;
+}
+/* person */
+.person img{
+  width:35px;
+  height: 35px;
+  margin-top:25px;
+  margin-left: 15px;
+}
+.person p{
+  margin-top:-29px;
+  margin-left: 70px;
+  color: #8BACD9;
+  font-size: 16px;
+}
+.person a{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.person a:hover{
+  color:#00FFF8;
+}
